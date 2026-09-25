@@ -9,6 +9,15 @@
       "signature": "MEYCIQC4wKp06f3/IkJzqkhd/CfJ4hZ83cwTH1XiWNTsITx97wIhAJ4CDmX4/k0tKi1EMn3W9LW4XSwddYC3+U+gsOhX/bRN",
       "notes": "More reliable Wi-Fi, a steadier room sensor, and fixes for \u201cNo remote?\u201d AC setup.",
       "publishedAt": "2026-09-25T09:00:52Z"
+    },
+    "rewise-voice-hub": {
+      "version": "0.8.1",
+      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-voice-hub-0.8.1/rewise-voice-hub-0.8.1.bin",
+      "size": 3154352,
+      "sha256": "1a6e62f4a86ca53b729932bf14bf501b15797245d58d55df68b18714b619df80",
+      "signature": "MEUCIAOFszgge75Pm7Bmf7cH6kNMqw8UeGnlyGIIZG/3VlBzAiEA/nIoR0F1pHgVWAs4e0Bt6/0YutbEQMi2v/QUaHVFhEg=",
+      "notes": "Works with more routers, stays connected through weak Wi-Fi, and handles interrupted updates cleanly.",
+      "publishedAt": "2026-09-25T09:00:59Z"
     }
   }
 }
