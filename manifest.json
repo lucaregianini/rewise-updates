@@ -1,4 +1,14 @@
 {
   "schemaVersion": 1,
-  "releases": {}
+  "releases": {
+    "rewise-air-a1": {
+      "version": "0.6.2",
+      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-air-a1-0.6.2/rewise-air-a1-0.6.2.bin",
+      "size": 1453456,
+      "sha256": "03fb38c25452e6e245d9224e22b882f79954c19edb17c2eeb4ae7983bfc2a1d3",
+      "signature": "MEYCIQC4wKp06f3/IkJzqkhd/CfJ4hZ83cwTH1XiWNTsITx97wIhAJ4CDmX4/k0tKi1EMn3W9LW4XSwddYC3+U+gsOhX/bRN",
+      "notes": "More reliable Wi-Fi, a steadier room sensor, and fixes for \u201cNo remote?\u201d AC setup.",
+      "publishedAt": "2026-09-25T09:00:52Z"
+    }
+  }
 }
