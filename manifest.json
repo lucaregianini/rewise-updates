@@ -11,13 +11,13 @@
       "publishedAt": "2026-09-28T17:23:06Z"
     },
     "rewise-voice-hub": {
-      "version": "0.9.3",
-      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-voice-hub-0.9.3/rewise-voice-hub-0.9.3.bin",
-      "size": 3235680,
-      "sha256": "78843a28c420493c29ca45d4bd84aa5c29bf7a33ce6095dbf70c725b993c5e54",
-      "signature": "MEQCIAGPS95Ozt0gKDFWO7YwSXK+y9MVkhZmmFkyaG2QWMslAiA/gEJR7DgfKdpxTqE43Wf9vAqysgbL54LOWAQjj0BCoQ==",
-      "notes": "Fixes the Voice Hub restarting every few seconds while connected to your Rewise Server.",
-      "publishedAt": "2026-09-30T18:01:16Z"
+      "version": "0.9.4",
+      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-voice-hub-0.9.4/rewise-voice-hub-0.9.4.bin",
+      "size": 3235600,
+      "sha256": "9b473cfd73ec2fa9b7a6f962989c1fade809119e5cd50acd4f14b6226edf9d64",
+      "signature": "MEUCIQCA2efTRSeJEc3SOU1cbYT6JSzQkT31gH1/siaaVf5pUgIgYdwr8WGwrH4+i2uFBVwKP8oPcte3qJlxDEU5qXDWC0c=",
+      "notes": "Fixes the Voice Hub restarting while connected to your Rewise Server. Alarms now ring until you stop or snooze them.",
+      "publishedAt": "2026-09-30T18:08:27Z"
     }
   }
 }
