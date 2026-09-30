@@ -11,13 +11,13 @@
       "publishedAt": "2026-09-28T17:23:06Z"
     },
     "rewise-voice-hub": {
-      "version": "0.9.2",
-      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-voice-hub-0.9.2/rewise-voice-hub-0.9.2.bin",
-      "size": 3235424,
-      "sha256": "0cdc9cddbd36f53542119a49e3b37992c80469f7211ba9e9550f819e6ecdacfa",
-      "signature": "MEUCID7NfoSDbuO9Gb94eB5+s5ryus6BCELO7auGmppLt75LAiEAjZhrsQlLW9WvBkS9TgTaP7onSdAOMQX5uMyycNgJJtQ=",
-      "notes": "Jarvis only speaks when you talk to him, and chats more naturally: how are you, knock-knock jokes, riddles, welcome home.",
-      "publishedAt": "2026-09-30T14:21:52Z"
+      "version": "0.9.3",
+      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-voice-hub-0.9.3/rewise-voice-hub-0.9.3.bin",
+      "size": 3235680,
+      "sha256": "78843a28c420493c29ca45d4bd84aa5c29bf7a33ce6095dbf70c725b993c5e54",
+      "signature": "MEQCIAGPS95Ozt0gKDFWO7YwSXK+y9MVkhZmmFkyaG2QWMslAiA/gEJR7DgfKdpxTqE43Wf9vAqysgbL54LOWAQjj0BCoQ==",
+      "notes": "Fixes the Voice Hub restarting every few seconds while connected to your Rewise Server.",
+      "publishedAt": "2026-09-30T18:01:16Z"
     }
   }
 }
