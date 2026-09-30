@@ -11,13 +11,13 @@
       "publishedAt": "2026-09-28T17:23:06Z"
     },
     "rewise-voice-hub": {
-      "version": "0.9.0",
-      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-voice-hub-0.9.0/rewise-voice-hub-0.9.0.bin",
-      "size": 3234464,
-      "sha256": "de7983d53af37569685ebfab8093ab4f068106bb9c35390bfc482baefc2b7d47",
-      "signature": "MEUCIC//5cWP4IF3kQKrP5jrCYHXGFRDJCyf5kOTTFZH06qZAiEA7S35abwmRxrDZExwMUQA3XpPF2ZETXvOfZx+yCx0ETw=",
-      "notes": "Say \"mute\" to turn the microphone off; the light stays red while muted. Adds alarms and timers from the app, remote control from anywhere, answers to any question, and new voices including Jarvis.",
-      "publishedAt": "2026-09-29T21:41:13Z"
+      "version": "0.9.1",
+      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-voice-hub-0.9.1/rewise-voice-hub-0.9.1.bin",
+      "size": 3235072,
+      "sha256": "5fef2c0ce002d2de6f2dee686539a37c591f1b82969c5199fbe43b6672ed89a7",
+      "signature": "MEQCIFeXtuljO0UMU5H8Saoe78Am/r4M0FurwWO+PVFfrwPOAiAXZinMVkICGX9im/xw8q1MsHRSfP5diho9LhSAl2We+A==",
+      "notes": "Jarvis now greets you by name with the state of the house, and keeps listening when he asks you something.",
+      "publishedAt": "2026-09-30T05:54:54Z"
     }
   }
 }
