@@ -11,13 +11,13 @@
       "publishedAt": "2026-09-28T17:23:06Z"
     },
     "rewise-voice-hub": {
-      "version": "0.9.7",
-      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-voice-hub-0.9.7/rewise-voice-hub-0.9.7.bin",
-      "size": 3236208,
-      "sha256": "1bc57bb8aabd8a8f2a62b2d6cb89a752b5ee2805bfa50a477c01d9b472fe0788",
-      "signature": "MEYCIQDM9Nf5Gi7LLxnvdiwceaxdThhAS22NboutnWVMNMt67wIhAPMnPlTaCehwVKLI6oveNAXuFC4uHdXyHC8D0MOOjSk+",
-      "notes": "Say \"Jarvis, stop\" to stop a ringing alarm or timer.",
-      "publishedAt": "2026-09-30T19:12:59Z"
+      "version": "0.9.8",
+      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-voice-hub-0.9.8/rewise-voice-hub-0.9.8.bin",
+      "size": 3236288,
+      "sha256": "da6c35d9c43a2f49f1cb6cfc82471561fb9c7044e66e613398def6b0e6683568",
+      "signature": "MEUCIHZcmbgG/lSHuqXkk79Pg4PqWb7RDun8sfuFl6HumIhxAiEAku/4EO7fTTYQU/QCJRyiGOcOQtzLNUehTZGLYLJnbYM=",
+      "notes": "Jarvis keeps listening after asking a question, also when he said \"One moment\" first.",
+      "publishedAt": "2026-10-01T20:04:39Z"
     }
   }
 }
