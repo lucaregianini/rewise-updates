@@ -11,13 +11,13 @@
       "publishedAt": "2026-09-28T17:23:06Z"
     },
     "rewise-voice-hub": {
-      "version": "0.9.8",
-      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-voice-hub-0.9.8/rewise-voice-hub-0.9.8.bin",
-      "size": 3236288,
-      "sha256": "da6c35d9c43a2f49f1cb6cfc82471561fb9c7044e66e613398def6b0e6683568",
-      "signature": "MEUCIHZcmbgG/lSHuqXkk79Pg4PqWb7RDun8sfuFl6HumIhxAiEAku/4EO7fTTYQU/QCJRyiGOcOQtzLNUehTZGLYLJnbYM=",
-      "notes": "Jarvis keeps listening after asking a question, also when he said \"One moment\" first.",
-      "publishedAt": "2026-10-01T20:04:39Z"
+      "version": "0.9.9",
+      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-voice-hub-0.9.9/rewise-voice-hub-0.9.9.bin",
+      "size": 3237568,
+      "sha256": "81465e148b0ebe1ce0ba1374c95b11286883133a08c6166cee2375dcd10e6d7f",
+      "signature": "MEYCIQDI2NafVeS1UzK6OWC22Gt+ob3DqwM8GZtyRdf7TUiMKwIhALZax4LFnRIEWll0oi6s/6wqCHmmgUHt/WEpyG4hFBnC",
+      "notes": "Jarvis's answers stay smooth when the Internet connection hiccups, instead of crackling.",
+      "publishedAt": "2026-10-05T18:16:09Z"
     }
   }
 }
