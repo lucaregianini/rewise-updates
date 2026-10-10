@@ -11,13 +11,13 @@
       "publishedAt": "2026-09-28T17:23:06Z"
     },
     "rewise-voice-hub": {
-      "version": "0.9.10",
-      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-voice-hub-0.9.10/rewise-voice-hub-0.9.10.bin",
-      "size": 3240032,
-      "sha256": "02b284ee097a0e8cd0d7626612f27b317ac6b948d4e96c329a65a0cc9b7dabd0",
-      "signature": "MEUCIF8EsU24tiizz5G+TA1WeIaEVeeNEHXq2Hp8LBtJuQYpAiEAhlHHnNj/4l0CJK2od6Ap0LdlJrdqCvBaBWYKLjeYPY4=",
-      "notes": "Jarvis's online answers recover from network hiccups faster and stutter less. The Voice Hub also reports more about its connection to help fix any that remain.",
-      "publishedAt": "2026-10-10T14:53:41Z"
+      "version": "0.9.11",
+      "url": "https://github.com/lucaregianini/rewise-updates/releases/download/rewise-voice-hub-0.9.11/rewise-voice-hub-0.9.11.bin",
+      "size": 3240528,
+      "sha256": "55a86d3f38ee2c0058cbf01e702ceda7ceb6a1e4e84aef532915b45558ec872e",
+      "signature": "MEUCIQDoh1eTMr3NOuAg1SSW3rnDniv1r5CY7vAByroDKIjhSQIgGbxnGyf5fZOFX1crG5TUep9Z0ZN1FaO5jCyVj/t3FE0=",
+      "notes": "Fixes Jarvis's online answers stalling or cutting off: the Voice Hub no longer runs out of memory for incoming Wi-Fi data.",
+      "publishedAt": "2026-10-10T22:31:46Z"
     }
   }
 }
